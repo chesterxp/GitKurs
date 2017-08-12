@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAK;EACJ,UAAU,EAAE,GAAG;EACf,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,SAAS",
+"sources": ["top-page.scss"],
+"names": [],
+"file": "top-page.css"
+}
