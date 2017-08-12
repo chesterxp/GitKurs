@@ -3,3 +3,10 @@ body{
   background: linear-gradient(270deg,#6581fa,#b100ff);
   font-size: 20px;
 }
+
+#demo{
+  width: 100px;
+  height: 200px;
+  background: blue;
+  color: white;
+}
