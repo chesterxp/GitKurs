@@ -1,0 +1,5 @@
+body{
+  background: -webkit-gradient(linear,right top, left top,from(#6581fa),to(#b100ff));
+  background: linear-gradient(270deg,#6581fa,#b100ff);
+  font-size: 20px;
+}
