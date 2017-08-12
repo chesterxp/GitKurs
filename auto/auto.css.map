@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,MAAM;EACL,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,YAAY;EACxB,SAAS,EAAC,gBAAgB",
+"mappings": "AAAA,MAAM;EACL,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,YAAY;EACxB,SAAS,EAAC,gBAAgB;EAE1B,YAAO;IACN,SAAS,EAAC,UAAU",
 "sources": ["auto.scss"],
 "names": [],
 "file": "auto.css"
