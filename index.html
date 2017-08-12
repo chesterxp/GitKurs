@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>Kurs z modułami</title>
+  <link rel="stylesheet" href="CSS/style.css">
+</head>
+
+<body>
+
+<div class="hero_unit">
+  <h1>JS <br/>Tutorials</h1>
+</div>
+
+<div id="peopleModule">
+  <h1>People</h1>
+  <input type="text" placeholder="name">
+  <button id="addPerson">Add Person</button>
+  <ul id="people">
+   
+ 
+    <script id="people-template" type="text/template">
+    {{#people}}
+      <li>
+        <span>{{.}}</span>
+        <i class="del">X</i>
+      </li>
+    {{/people}}  
+    </script>
+    
+  </ul>
+</div>
+
+
+
+
+<script
+  src="http://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+
+<script src="JS/main.js"></script>    
+</body>
+</html>
