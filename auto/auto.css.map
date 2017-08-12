@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM;EACL,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,YAAY;EACxB,SAAS,EAAC,gBAAgB",
+"sources": ["auto.scss"],
+"names": [],
+"file": "auto.css"
+}
