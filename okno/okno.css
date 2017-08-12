@@ -1,0 +1,28 @@
+#demo10{
+
+
+	font-size: 30px;
+	color: red;
+	padding: 30px 45px;
+	background: orange;
+	margin: 50px auto;
+	display: inline-block;
+}
+
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.hero-unit {
+    margin: 20px auto 50px auto;
+    width: 300px;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 20px;
+    background-color: #eb0505;
+    border-radius: 6px;
+    padding: 10px 20px;
+    text-align: center;
+}
