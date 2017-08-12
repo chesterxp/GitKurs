@@ -1,0 +1,2 @@
+# GitKurs
+Ćwiczenia z gitem
